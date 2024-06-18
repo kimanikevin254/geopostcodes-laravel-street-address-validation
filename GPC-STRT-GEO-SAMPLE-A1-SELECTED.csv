@@ -1,0 +1,201 @@
+iso;country;language;id;region1;region2;region3;region4;locality;postcode;suburb;street;range;building;latitude;longitude;elevation;iso2;fips;nuts;hasc;stat;timezone;utc;dst;locality_type
+MX;México;ES;2183394963;Aguascalientes;Aguascalientes;;;Aguascalientes;20170;14 Ava;Avenida Aguascalientes Oriente;;;21.900196;-102.270571;1911;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348353;Aguascalientes;Aguascalientes;;;Aguascalientes;20170;14 Ava;Calle General José Refugio Velazco;;;21.903439;-102.265078;1938;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224743;Aguascalientes;Aguascalientes;;;Aguascalientes;20170;14 Ava;Calle Ninguno;;;21.900129;-102.269081;1895;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224868;Aguascalientes;Aguascalientes;;;Aguascalientes;20170;14 Ava;Privada Ninguno;;;21.898730;-102.269467;1874;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281601;Aguascalientes;Aguascalientes;;;Aguascalientes;20170;14 Ava;Prolongación Higuera;;;21.902098;-102.261102;1953;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183469910;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Avenida Mahatma Gandhi;;;21.861801;-102.295388;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183479406;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Avenida Quinta;;;21.862739;-102.299315;1868;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173277051;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Avenida Quinta;;;21.862739;-102.299315;1868;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345498;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle Quebec;;;21.863178;-102.296850;1874;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281449;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle República de Argentina;;;21.863239;-102.297611;1869;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281451;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Calle República de Brasil;;;21.863219;-102.299945;1866;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281455;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle República de Honduras;;;21.862728;-102.298143;1869;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345418;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Calle República de Honduras;;;21.862728;-102.298143;1868;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224805;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle República del Perú;;;21.863699;-102.297124;1862;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224804;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Calle República del Perú;;;21.863699;-102.297124;1862;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183438412;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle República de Paraguay;;;21.864198;-102.296121;1866;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281460;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle República de Uruguay;;;21.862115;-102.298356;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281461;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Calle República de Uruguay;;;21.862115;-102.298356;1866;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345561;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Calle República Mexicana;;;21.863441;-102.299333;1860;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345436;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Calle Yukon;;;21.863135;-102.296324;1872;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183146347;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada 1901-A;;;21.861809;-102.296987;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183125701;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada 1907-17;;;21.861816;-102.296077;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183043342;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada Argentina;;;21.861703;-102.297933;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183320185;Aguascalientes;Aguascalientes;;;Aguascalientes;20235;Agricultura;Privada Punta del Este;;;21.863245;-102.300618;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183125708;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada Uruguay 1803;;;21.861883;-102.299284;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183214839;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada Uruguay 1805;;;21.861875;-102.298807;1870;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183033781;Aguascalientes;Aguascalientes;;;Aguascalientes;20234;Agricultura;Privada Villa Jardín;;;21.861823;-102.298347;1984;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183449634;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle A;;;21.861703;-102.252587;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173258254;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Ajonjolí;;;21.863735;-102.251773;1935;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173260200;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Alubia;;;21.863170;-102.251341;1935;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345330;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Arroz;;;21.861658;-102.251966;1945;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345581;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle B;;;21.863642;-102.251192;1922;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281209;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Cerro de Los Gallos;;;21.862604;-102.252234;1933;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345377;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Chícharo;;;21.862396;-102.251527;1940;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345276;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Chile;;;21.863435;-102.251623;1945;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281286;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Garbanzo;;;21.862794;-102.251528;1938;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152345610;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Huachichil;;;21.865090;-102.251841;1920;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281521;Aguascalientes;Aguascalientes;;;Aguascalientes;20263;Agua Clara;Calle Trigo;;;21.862034;-102.251550;1941;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347361;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Artes Plasticas;;;21.891124;-102.269814;1895;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347303;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Canal Interceptor;;;21.890865;-102.270834;1894;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183469951;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Fray Luis de León;;;21.892641;-102.269662;1901;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347397;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Muralismo;;;21.891693;-102.270005;1898;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347381;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Muralismo 108;;;21.891262;-102.270280;1895;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347398;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Calle Muralismo 118;;;21.891456;-102.270681;1893;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347426;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Privada Artes Plasticas;;;21.891761;-102.269362;1903;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347440;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Privada Muralismo 107;;;21.892077;-102.269697;1900;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347459;Aguascalientes;Aguascalientes;;;Aguascalientes;20180;Alameda;Privada Muralismo 117;;;21.892329;-102.270057;1898;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281143;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Boulevard Licenciado Adolfo Ruiz Cortines;;;21.872000;-102.326729;1845;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183275340;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Albizia;;;21.874787;-102.328945;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183048102;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Bibaina;;;21.876466;-102.327941;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183201777;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Corisia;;;21.874377;-102.328945;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183411722;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle de La Lidia;;;21.876838;-102.328297;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183404418;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle del Valle;;;21.872905;-102.327020;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183452825;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Galafate;;;21.877045;-102.328811;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224778;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Ninguno;;;21.900129;-102.269081;1895;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183224747;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Ninguno;;;21.900129;-102.269081;1895;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183043334;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Nyssa;;;21.873465;-102.327543;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183417543;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Paleto;;;21.877152;-102.329403;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183126057;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Paseo de Las Divisas;;;21.877601;-102.330550;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183354262;Aguascalientes;Aguascalientes;;;Aguascalientes;20326;Alberia;Calle Paseo de Los Hierros;;;21.876180;-102.325946;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183050495;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Robinia;;;21.873910;-102.328411;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183315002;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Calle Tilia;;;21.873901;-102.327297;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183042531;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Privada Dhalia;;;21.873279;-102.326283;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183057794;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Privada Ghedisia;;;21.873772;-102.325694;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183456397;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Privada Robinia;;;21.873482;-102.328556;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183292391;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Privada Salice;;;21.873492;-102.326121;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183124057;Aguascalientes;Aguascalientes;;;Aguascalientes;20218;Alberia;Privada Visna;;;21.872967;-102.326546;1871;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348635;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle A;;;21.861703;-102.252587;1892;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183449635;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle A;;;21.861703;-102.252587;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348917;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Alfonso Ramírez Paulín;;;21.911549;-102.283390;1898;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281192;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Benjamín Méndez;;;21.910381;-102.282649;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348545;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle Capricornio;;;21.907935;-102.280839;1896;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183449652;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle F;;;21.908210;-102.281850;1899;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173275065;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle Felipe Pescador;;;21.908664;-102.282072;1896;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281747;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Francisco P. de Landa;;;21.910864;-102.280683;1899;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348721;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle G;;;21.910098;-102.281122;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183469952;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle G;;;21.910098;-102.281122;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348821;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle H;;;21.910438;-102.281322;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348875;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle José González Sánchez;;;21.910808;-102.282799;1896;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348896;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Manuel de Urquiaga;;;21.911224;-102.282997;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281405;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Parras;;;21.910848;-102.280347;1900;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173275098;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle Pedro Baranda;;;21.909107;-102.282224;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173275101;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Calle Privada A;;;21.907213;-102.280914;1896;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183106617;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Tamarindo;;;21.910747;-102.280052;1898;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152348868;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Calle Tomás Pineira;;;21.910489;-102.280673;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281984;Aguascalientes;Aguascalientes;;;Aguascalientes;20159;Alianza Ferrocarrilera;Privada Francisco P. de Landa;;;21.910764;-102.280368;1900;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2173279123;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Privada Segunda A;;;21.907013;-102.281624;1897;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2169420125;Aguascalientes;Aguascalientes;;;Aguascalientes;20150;Alianza Ferrocarrilera;Retorno 7 de Noviembre;;;21.907464;-102.281825;1898;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183296715;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Avenida Convención de 1914 Norte;;;21.895370;-102.310571;1875;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347527;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Avenida Fundición;;;21.892465;-102.308469;1865;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281165;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Alaman;;;21.890030;-102.304480;1862;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2183029537;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Alberto Dávalos;;;21.890187;-102.304021;1861;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347589;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Alejandro R. Ugarte;;;21.894699;-102.309671;1865;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347559;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Amado Nervo;;;21.893300;-102.303155;1865;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347579;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Aquiles Serdán;;;21.892841;-102.301666;1865;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347586;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Carlos Barrón;;;21.893294;-102.306942;1867;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2176281201;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Carlos Sagredo;;;21.892595;-102.305571;1865;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347364;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Doctor Alberto del Valle;;;21.893757;-102.307253;1863;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347424;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Felipe Ruiz de Chávez;;;21.894124;-102.307681;1864;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+MX;México;ES;2152347387;Aguascalientes;Aguascalientes;;;Aguascalientes;20040;Altavista;Calle Francisco Sarabia;;;21.893572;-102.305679;1863;MX-AGU;MX01;;MX.AG;010010001;America/Mexico_City;-06:00;-06:00;town
+US;United States;EN;2190991580;Illinois;Cook;;;Chicago;60617;;122nd Street;;;41.875562;-87.624421;194;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2191743976;Illinois;Cook;;;Chicago;60666;;Access Road;;;41.875562;-87.624421;194;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2149357093;Illinois;Cook;;;Chicago;60678;;American National Bank;;;41.822892;-87.626058;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2175955230;Illinois;Cook;;;Chicago;60670;;Bank One Plaza;;;41.881596;-87.630245;253;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2191743977;Illinois;Cook;;;Chicago;60666;;Bessie Coleman Drive;;;41.875562;-87.624421;194;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2175955231;Illinois;Cook;;;Chicago;60668;;Bill Payment Center;;;41.883847;-87.631222;238;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2149357097;Illinois;Cook;;;Chicago;60685;;C N A Plaza;;;41.877431;-87.625657;188;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2175955232;Illinois;Cook;;;Chicago;60693;;Collection Center Drive;;;41.888090;-87.624935;198;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2149357099;Illinois;Cook;;;Chicago;60685;;Continental Assurance;;;41.883796;-87.639344;192;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2175955233;Illinois;Cook;;;Chicago;60697;;Continental Bank;;;41.878407;-87.633048;253;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2140679462;Illinois;Cook;;;Chicago;60685;;Continental Casualty;;;41.877320;-87.625585;186;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2149357101;Illinois;Cook;;;Chicago;60678;;Eagle Way;;;41.901033;-87.626152;197;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148613174;Illinois;Cook;;;Chicago;60628;;East 100th Place;;;41.711811;-87.607392;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129149685;Illinois;Cook;;;Chicago;60617;;East 100th Street;2100-3599;;41.713805;-87.563927;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150443;Illinois;Cook;;;Chicago;60628;;East 100th Street;1-999;;41.712673;-87.606440;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612887;Illinois;Cook;;;Chicago;60628;;East 101st Place;;;41.710009;-87.614722;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148613165;Illinois;Cook;;;Chicago;60617;;East 101st Street;[2800-2998],(2901-3699);;41.711737;-87.553490;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150444;Illinois;Cook;;;Chicago;60628;;East 101st Street;1-1199;;41.710900;-87.603042;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612596;Illinois;Cook;;;Chicago;60628;;East 102nd Place;;;41.708134;-87.614822;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612877;Illinois;Cook;;;Chicago;60617;;East 102nd Street;(2201-4099),[3500-3598];;41.709952;-87.538012;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150513;Illinois;Cook;;;Chicago;60628;;East 102nd Street;1-699;;41.709233;-87.620710;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612296;Illinois;Cook;;;Chicago;60628;;East 103rd Place;;;41.706411;-87.614504;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612554;Illinois;Cook;;;Chicago;60617;;East 103rd Street;[1700-3098],(2201-3799);;41.707926;-87.568215;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150437;Illinois;Cook;;;Chicago;60628;;East 103rd Street;(1-1099),[2-1198];;41.707168;-87.612165;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611993;Illinois;Cook;;;Chicago;60628;;East 104th Place;;;41.704634;-87.611397;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612145;Illinois;Cook;;;Chicago;60617;;East 104th Street;(2301-3699),[2700-3898];;41.705549;-87.543893;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612140;Illinois;Cook;;;Chicago;60628;;East 104th Street;(33-999),[34-798];;41.705524;-87.614197;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611672;Illinois;Cook;;;Chicago;60628;;East 105th Place;;;41.702984;-87.607167;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148612012;Illinois;Cook;;;Chicago;60617;;East 105th Street;[2400-3998],(2401-3799);;41.704748;-87.537561;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611829;Illinois;Cook;;;Chicago;60628;;East 105th Street;(1-799),[100-798];;41.703767;-87.612047;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611655;Illinois;Cook;;;Chicago;60617;;East 106th Street;[2000-4098],(2401-4099);;41.702888;-87.551970;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611458;Illinois;Cook;;;Chicago;60628;;East 106th Street;(201-599),[532-820];;41.701884;-87.614322;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611319;Illinois;Cook;;;Chicago;60617;;East 107th Street;[2400-4098],(2401-3699);;41.701119;-87.545444;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148611079;Illinois;Cook;;;Chicago;60628;;East 107th Street;(1-899),[2-798];;41.700080;-87.615327;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610954;Illinois;Cook;;;Chicago;60617;;East 108th Street;[2500-2698],(3601-3699);;41.699437;-87.560656;178;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610724;Illinois;Cook;;;Chicago;60628;;East 108th Street;[2-424],(201-699);;41.698184;-87.617567;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610646;Illinois;Cook;;;Chicago;60617;;East 109th Street;[2500-3698],(2501-2699);;41.697849;-87.552654;177;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610350;Illinois;Cook;;;Chicago;60628;;East 109th Street;[2-530],(401-599);;41.696341;-87.614897;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609857;Illinois;Cook;;;Chicago;60628;;East 110th Place;;;41.693609;-87.617097;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610204;Illinois;Cook;;;Chicago;60617;;East 110th Street;(3801-3899),[3900-3998];;41.695635;-87.528894;178;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148610035;Illinois;Cook;;;Chicago;60628;;East 110th Street;(1-799),[100-798];;41.694644;-87.616107;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609532;Illinois;Cook;;;Chicago;60628;;East 111th Place;;;41.691834;-87.615047;185;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609894;Illinois;Cook;;;Chicago;60617;;East 111th Street;(3701-3799);;41.693835;-87.533244;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609695;Illinois;Cook;;;Chicago;60628;;East 111th Street;(1-799),[2-1000];;41.692728;-87.613663;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609136;Illinois;Cook;;;Chicago;60628;;East 112th Place;;;41.689784;-87.621947;186;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609568;Illinois;Cook;;;Chicago;60617;;East 112th Street;(2701-3799),[3400-4098];;41.692031;-87.532415;178;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148609307;Illinois;Cook;;;Chicago;60628;;East 112th Street;[2-716],(127-899);;41.690714;-87.623477;187;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608768;Illinois;Cook;;;Chicago;60628;;East 113th Place;;;41.687934;-87.621897;189;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129149674;Illinois;Cook;;;Chicago;60617;;East 113th Street;3700-3799;;41.689898;-87.533698;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608956;Illinois;Cook;;;Chicago;60628;;East 113th Street;(1-699),[2-898];;41.688940;-87.612130;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608492;Illinois;Cook;;;Chicago;60628;;East 114th Place;;;41.686320;-87.617454;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608851;Illinois;Cook;;;Chicago;60617;;East 114th Street;(2701-3799),[3400-3598];;41.688386;-87.540945;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608596;Illinois;Cook;;;Chicago;60628;;East 114th Street;(1-625),[2-898];;41.686960;-87.609856;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608322;Illinois;Cook;;;Chicago;60628;;East 115th Street;;;41.685353;-87.613921;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148608245;Illinois;Cook;;;Chicago;60617;;East 116th Street;(3601-3699);;41.684935;-87.535044;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150419;Illinois;Cook;;;Chicago;60628;;East 116th Street;1-399;;41.682779;-87.617108;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148607513;Illinois;Cook;;;Chicago;60628;;East 117th Place;;;41.680684;-87.620272;185;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148607882;Illinois;Cook;;;Chicago;60617;;East 117th Street;[2600-2698],(3601-3699);;41.682870;-87.559803;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150510;Illinois;Cook;;;Chicago;60628;;East 117th Street;1-399;;41.681745;-87.616433;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148607215;Illinois;Cook;;;Chicago;60628;;East 118th Place;;;41.678884;-87.620297;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148607607;Illinois;Cook;;;Chicago;60617;;East 118th Street;[3200-3698],(3501-3599);;41.681217;-87.538886;175;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150416;Illinois;Cook;;;Chicago;60628;;East 118th Street;1-399;;41.680107;-87.619167;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606919;Illinois;Cook;;;Chicago;60628;;East 119th Place;;;41.677184;-87.618363;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148607062;Illinois;Cook;;;Chicago;60628;;East 119th Street;;;41.678056;-87.617913;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148630034;Illinois;Cook;;;Chicago;60605;;East 11th Street;;;41.869234;-87.626110;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606662;Illinois;Cook;;;Chicago;60628;;East 120th Place;;;41.675374;-87.618578;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606757;Illinois;Cook;;;Chicago;60628;;East 120th Street;;;41.676021;-87.611075;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606389;Illinois;Cook;;;Chicago;60628;;East 121st Place;;;41.673554;-87.618527;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606463;Illinois;Cook;;;Chicago;60628;;East 121st Street;;;41.674071;-87.619684;188;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606121;Illinois;Cook;;;Chicago;60628;;East 122nd Place;;;41.671588;-87.619980;187;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150410;Illinois;Cook;;;Chicago;60628;;East 122nd Street;1-199;;41.672376;-87.619493;186;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606343;Illinois;Cook;;;Chicago;60633;;East 122nd Street;[1600-2098],(1701-2099);;41.673264;-87.572916;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148606002;Illinois;Cook;;;Chicago;60628;;East 123rd Street;;;41.670736;-87.619713;185;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148605556;Illinois;Cook;;;Chicago;60628;;East 124th Place;;;41.667637;-87.620072;185;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148605731;Illinois;Cook;;;Chicago;60628;;East 124th Street;;;41.668880;-87.619693;186;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148605367;Illinois;Cook;;;Chicago;60628;;East 125th Place;;;41.666136;-87.621040;186;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150492;Illinois;Cook;;;Chicago;60628;;East 126th Street;1-99;;41.664636;-87.621103;184;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148605458;Illinois;Cook;;;Chicago;60633;;East 126th Street;[2638-3498];;41.666834;-87.554540;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604947;Illinois;Cook;;;Chicago;60628;;East 127th Street;[2-198];;41.663301;-87.619329;185;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148605175;Illinois;Cook;;;Chicago;60633;;East 127th Street;[2600-2898],(2601-2999);;41.664735;-87.555775;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604904;Illinois;Cook;;;Chicago;60633;;East 128th Street;;;41.663035;-87.556644;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604334;Illinois;Cook;;;Chicago;60827;;East 130th Place;;;41.658716;-87.601612;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604378;Illinois;Cook;;;Chicago;60628;;East 130th Street;[200-498],(501-1099);;41.659031;-87.613620;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604416;Illinois;Cook;;;Chicago;60633;;East 130th Street;[1400-3198],(1401-2999);;41.659363;-87.558166;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604375;Illinois;Cook;;;Chicago;60827;;East 130th Street;(301-399);;41.659023;-87.614281;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603992;Illinois;Cook;;;Chicago;60827;;East 131st Place;;;41.655823;-87.614995;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148604187;Illinois;Cook;;;Chicago;60633;;East 131st Street;(3101-3199);;41.657536;-87.547602;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129152808;Illinois;Cook;;;Chicago;60827;;East 131st Street;600-1199;;41.657407;-87.601132;179;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603892;Illinois;Cook;;;Chicago;60827;;East 132nd Place;;;41.655084;-87.605546;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603963;Illinois;Cook;;;Chicago;60633;;East 132nd Street;[2900-2998];;41.655635;-87.551194;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129152809;Illinois;Cook;;;Chicago;60827;;East 132nd Street;200-1199;;41.655650;-87.603067;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603636;Illinois;Cook;;;Chicago;60827;;East 133rd Place;;;41.653083;-87.602155;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603715;Illinois;Cook;;;Chicago;60633;;East 133rd Street;(3001-3099),[3100-3398];;41.653834;-87.550001;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603671;Illinois;Cook;;;Chicago;60827;;East 133rd Street;[100-1198],(101-1099);;41.653462;-87.605378;181;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603380;Illinois;Cook;;;Chicago;60827;;East 134th Place;;;41.650934;-87.606458;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603430;Illinois;Cook;;;Chicago;60633;;East 134th Street;[3300-4098],(4001-4099);;41.651235;-87.528950;180;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603459;Illinois;Cook;;;Chicago;60827;;East 134th Street;(101-999),[200-1098];;41.651481;-87.611009;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148603089;Illinois;Cook;;;Chicago;60827;;East 135th Place;;;41.648784;-87.615646;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2148602818;Illinois;Cook;;;Chicago;60827;;East 136th Place;;;41.646984;-87.614646;182;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
+US;United States;EN;2129150973;Illinois;Cook;;;Chicago;60633;;East 136th Street;3200-3399;;41.648397;-87.543232;183;US-IL;17031;;US.IL.CO;IL031;America/Chicago;-06:00;-05:00;town
