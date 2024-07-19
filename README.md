@@ -32,3 +32,24 @@ Having met all the prerequisites, follow the steps below:
     ```bash
     php artisan serve
     ```
+
+## Relevant Files
+
+- **Data Files:**
+  - `GPC-STRT-GEO-SAMPLE-A1-SELECTED.csv` - Sample street data from GeoPostcodes.
+
+- **Database:**
+  - `database/migrations/2024_06_18_063554_create_street_address_table.php` - Defines the street address table schema.
+  - `database/seeders/StreetAddressSeeder.php` - Seeds the database with sample street address data.
+
+- **Models:**
+  - `app/Models/StreetAddress.php` - The Eloquent model for the street address table.
+
+- **Controllers:**
+  - `app/Http/Controllers/StreetAddressController.php` - Handles HTTP requests related to street addresses.
+
+- **Routes:**
+  - `routes/web.php` - Defines web routes for the application.
+
+- **Views:**
+  - `resources/views/street_address/create.blade.php` - The Blade template for the street address input form.
