@@ -33,11 +33,11 @@ class StreetAddressController extends Controller
         $state = $request->input('state');
         $zipCode = $request->input('zip_code');
 
-        // Check if provided address exists in DB
-        $addressExists = StreetAddress::where('street', $street)
-            ->where('city', $city)
-            ->where('state', $state)
-            ->where('zip_code', $zipCode)
+        // Check if the provided address exists in DB
+        $addressExists = StreetAddress::whereRaw('LOWER(street) = ?', [strtolower($street)])
+            ->whereRaw('LOWER(city) = ?', [strtolower($city)])
+            ->whereRaw('LOWER(state) = ?', [strtolower($state)])
+            ->whereRaw('LOWER(zip_code) = ?', [strtolower($zipCode)])
             ->exists();
 
         // Return the appropriate response
